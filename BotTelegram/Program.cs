@@ -10,9 +10,10 @@ namespace BotTelegram
     {
         static void Main(string[] args)
         {
-		 //conflict guys
+           
+            Console.WriteLine();
             Console.ReadLine();
-            Console.ReadLine();
+            
         }
     }
 }
