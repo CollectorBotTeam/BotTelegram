@@ -14,3 +14,9 @@ C:\Users\user\Documents\TelegramBot1\BotTelegram\obj\Debug\BotTelegram.csprojRes
 C:\Users\user\Documents\TelegramBot1\BotTelegram\obj\Debug\BotTelegram.exe
 C:\Users\Антон\Desktop\BotTelegram\bin\Debug\BotTelegram.exe.config
 C:\Users\Антон\Desktop\BotTelegram\obj\Debug\BotTelegram.pdb
+C:\Users\user\Documents\BotTelegram\BotTelegram\bin\Debug\BotTelegram.exe.config
+C:\Users\user\Documents\BotTelegram\BotTelegram\obj\Debug\BotTelegram.pdb
+C:\Users\user\Documents\BotTelegram\BotTelegram\bin\Debug\BotTelegram.exe
+C:\Users\user\Documents\BotTelegram\BotTelegram\bin\Debug\BotTelegram.pdb
+C:\Users\user\Documents\BotTelegram\BotTelegram\obj\Debug\BotTelegram.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\BotTelegram\BotTelegram\obj\Debug\BotTelegram.exe
