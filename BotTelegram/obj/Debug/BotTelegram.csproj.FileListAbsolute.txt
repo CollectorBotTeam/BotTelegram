@@ -1,0 +1,16 @@
+c:\users\антон\documents\visual studio 2015\Projects\BotTelegram\BotTelegram\bin\Debug\BotTelegram.exe.config
+C:\Users\Антон\Desktop\Git\BotTelegram\BotTelegram\bin\Debug\BotTelegram.exe.config
+C:\Users\Антон\Desktop\Git\BotTelegram\Bot repository\BotTelegram\bin\Debug\BotTelegram.exe.config
+C:\Users\Антон\Desktop\Git\BotTelegram\Bot repository\BotTelegram\bin\Debug\BotTelegram.exe
+C:\Users\Антон\Desktop\Git\BotTelegram\Bot repository\BotTelegram\bin\Debug\BotTelegram.pdb
+C:\Users\Антон\Desktop\Git\BotTelegram\Bot repository\BotTelegram\obj\Debug\BotTelegram.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Git\BotTelegram\Bot repository\BotTelegram\obj\Debug\BotTelegram.exe
+C:\Users\Антон\Desktop\Git\BotTelegram\Bot repository\BotTelegram\obj\Debug\BotTelegram.pdb
+C:\Users\user\Documents\TelegramBot1\BotTelegram\bin\Debug\BotTelegram.exe.config
+C:\Users\user\Documents\TelegramBot1\BotTelegram\obj\Debug\BotTelegram.pdb
+C:\Users\user\Documents\TelegramBot1\BotTelegram\bin\Debug\BotTelegram.exe
+C:\Users\user\Documents\TelegramBot1\BotTelegram\bin\Debug\BotTelegram.pdb
+C:\Users\user\Documents\TelegramBot1\BotTelegram\obj\Debug\BotTelegram.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\TelegramBot1\BotTelegram\obj\Debug\BotTelegram.exe
+C:\Users\Антон\Desktop\BotTelegram\bin\Debug\BotTelegram.exe.config
+C:\Users\Антон\Desktop\BotTelegram\obj\Debug\BotTelegram.pdb
