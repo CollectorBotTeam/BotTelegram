@@ -10,7 +10,7 @@ namespace BotTelegram
     {
         static void Main(string[] args)
         {
-            Console.ReadLine();//loh
+            Console.ReadLine();
             Console.ReadLine();
         }
     }
