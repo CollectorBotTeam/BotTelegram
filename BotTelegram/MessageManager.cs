@@ -53,9 +53,9 @@ namespace BotTelegram
         #region Constructors
         public MessageManager()
         {
+            Token = "188555203:AAHfCIHbydFjvhAiLkUtu-zXQ-KvQqFhGss";
             GetAllMessages();
             messageCount = UPDList.result.Count;
-            Token = "168077459:AAFWQ6cvhnaae2BqvXQMvk_9wLcrkOCSNM4";
         }
         #endregion
 
@@ -93,7 +93,10 @@ namespace BotTelegram
                         break;
                 }
 
-                doTask(controller);
+                if (controller != null)
+                {
+                    doTask(controller);
+                }
             }
 
         }
@@ -117,10 +120,11 @@ namespace BotTelegram
             }
         }
 
-        void GetAllMessages()
+       public void GetAllMessages()
         {
-            Method = "getUpdates";
+            Method = "getupdates";
             var httpWebRequest = (HttpWebRequest)WebRequest.CreateHttp(Telegram + Token + "/" + Method);
+
 
             var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
 
