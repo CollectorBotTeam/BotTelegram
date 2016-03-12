@@ -27,3 +27,4 @@ C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\bin\Debug\BotTelegra
 C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\bin\Debug\BotTelegram.pdb
 C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\obj\Debug\BotTelegram.exe
+C:\Users\user\Documents\BotTelegram\BotTelegram\bin\Debug\Newtonsoft.Json.dll
