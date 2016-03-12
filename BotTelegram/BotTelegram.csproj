@@ -34,6 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\External Libraries\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,6 +49,7 @@
   <ItemGroup>
     <Compile Include="AskMoneyController.cs" />
     <Compile Include="AutoReminder.cs" />
+    <Compile Include="Controller.cs" />
     <Compile Include="DebtorList.cs" />
     <Compile Include="Friend.cs" />
     <Compile Include="FriendList.cs" />
@@ -55,6 +59,7 @@
     <Compile Include="MessageManager.cs" />
     <Compile Include="MoneyBackController.cs" />
     <Compile Include="MyLoansRegister.cs" />
+    <Compile Include="Package.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

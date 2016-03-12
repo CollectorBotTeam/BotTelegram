@@ -20,3 +20,10 @@ C:\Users\user\Documents\BotTelegram\BotTelegram\bin\Debug\BotTelegram.exe
 C:\Users\user\Documents\BotTelegram\BotTelegram\bin\Debug\BotTelegram.pdb
 C:\Users\user\Documents\BotTelegram\BotTelegram\obj\Debug\BotTelegram.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\BotTelegram\BotTelegram\obj\Debug\BotTelegram.exe
+C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\bin\Debug\BotTelegram.exe.config
+C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\obj\Debug\BotTelegram.pdb
+C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\obj\Debug\BotTelegram.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\bin\Debug\BotTelegram.exe
+C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\bin\Debug\BotTelegram.pdb
+C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Антон\Desktop\Git\HackathonYandex\BotTelegram\obj\Debug\BotTelegram.exe

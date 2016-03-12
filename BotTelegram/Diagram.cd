@@ -3,14 +3,9 @@
   <Class Name="BotTelegram.User">
     <Position X="7.25" Y="2.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAgAAAAAAAA=</HashCode>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>User.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="FriendList" />
-      <Property Name="MyLoansRegister" />
-      <Property Name="DebtorList" />
-    </ShowAsAssociation>
   </Class>
   <Class Name="BotTelegram.Friend">
     <Position X="9.75" Y="2.75" Width="1.5" />
@@ -27,28 +22,28 @@
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.FriendList">
-    <Position X="9.75" Y="4.25" Width="1.5" />
+    <Position X="9.75" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>FriendList.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.Loan">
-    <Position X="5.5" Y="1.5" Width="1.5" />
+    <Position X="5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Loan.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.MyLoansRegister">
-    <Position X="4.25" Y="3" Width="1.5" />
+    <Position X="5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MyLoansRegister.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.DebtorList">
-    <Position X="4.25" Y="4.5" Width="1.5" />
+    <Position X="4.75" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>DebtorList.cs</FileName>
@@ -57,42 +52,42 @@
   <Class Name="BotTelegram.MessageManager">
     <Position X="7" Y="7.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAQAAoAAAIAQEAAAACAgAAAAAAAAAAAACAAAQAABAAA=</HashCode>
       <FileName>MessageManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.InitializeController">
-    <Position X="6.75" Y="6" Width="2" />
+    <Position X="6.75" Y="5" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>InitializeController.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.FriendListController">
-    <Position X="5.25" Y="8.25" Width="2" />
+    <Position X="4" Y="8.75" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAA=</HashCode>
       <FileName>FriendListController.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.AskMoneyController">
-    <Position X="8.25" Y="8.25" Width="2" />
+    <Position X="9.25" Y="9" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
       <FileName>AskMoneyController.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.MoneyBackController">
-    <Position X="4.75" Y="7" Width="1.75" />
+    <Position X="3.75" Y="6.25" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
       <FileName>MoneyBackController.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BotTelegram.RemindController">
     <Position X="9" Y="7" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
       <FileName>RemindController.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -101,6 +96,13 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>AutoReminder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BotTelegram.Controller">
+    <Position X="11.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQA=</HashCode>
+      <FileName>Controller.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

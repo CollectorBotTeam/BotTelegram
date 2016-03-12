@@ -7,40 +7,20 @@ namespace BotTelegram
 {
     public class User : Person
     {
-        public FriendList FriendList
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
+        public int chat_id { get; set; }
 
-            set
-            {
-            }
+        public User(int id)
+        {
+            chat_id = id;
         }
 
-        public MyLoansRegister MyLoansRegister
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
+        //public FriendList FriendList
+        
 
-            set
-            {
-            }
-        }
+        //public MyLoansRegister MyLoansRegister
+        
 
-        public DebtorList DebtorList
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-
-            set
-            {
-            }
-        }
+        //public DebtorList DebtorList
+        
     }
 }

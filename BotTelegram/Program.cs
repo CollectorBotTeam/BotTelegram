@@ -10,10 +10,11 @@ namespace BotTelegram
     {
         static void Main(string[] args)
         {
-           
-            Console.WriteLine();
-            Console.ReadLine();
-            
+            MessageManager manager = new MessageManager();
+            while(true)
+            {
+                manager.Update();
+            }
         }
     }
 }

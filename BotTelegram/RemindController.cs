@@ -5,7 +5,17 @@ using System.Text;
 
 namespace BotTelegram
 {
-    public class RemindController
+    public class RemindController : Controller
     {
+        public static List<string> remindComand = new List<string>() { "", "" };
+
+        public RemindController(User user) : base(user)
+        {
+        }
+
+        public override void Task(object obj)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

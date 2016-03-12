@@ -5,7 +5,17 @@ using System.Text;
 
 namespace BotTelegram
 {
-    public class AskMoneyController
+    public class AskMoneyController : Controller
     {
+        public static List<string> askMoneyCommand = new List<string>() { "", "" };
+
+        public AskMoneyController(User user) : base(user)
+        {
+        }
+
+        public override void Task(object obj)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
